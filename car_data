@@ -1,0 +1,20 @@
+  string get_name(int n){
+        return name[n-1];
+    }
+    string get_color(int n){
+        return color[n-1];
+    }
+    string get_model(int n){
+        return model[n-1];
+    }
+
+    string get_max_speed(int n){
+        return maxs_peed[n-1];
+    }
+int get_price(int n){
+    return price[n-1];
+    }
+    int get_date(int n){
+        return date[n-1];
+    }
+    
